@@ -18,7 +18,7 @@
 						<h1>Adum Maker</h1>
 						<h2>I like
 							<span class="txt-rotate" data-period="2000"
-								data-rotate='[ "Coding.", "Software Development", "Problem Solving.", "Photography.", "Books."]'></span>
+								data-rotate='[ "Coding.", "Software Development.", "Problem Solving.", "Photography."]'></span>
 						</h2>
 					</div>
 				</div>
